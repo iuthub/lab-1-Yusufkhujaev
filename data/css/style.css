@@ -1,0 +1,23 @@
+body{
+    background-color: #c3c2bd;
+}
+p{
+    margin-left: 10px;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+h1,h3{
+    margin: inherit;
+    color: #2d39e7;
+}
+span{
+    color: red;
+}
+div>img{
+    margin-left: 20px;
+    width: 60px;
+    height: 20px;
+}
